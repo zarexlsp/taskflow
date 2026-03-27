@@ -10,3 +10,4 @@ docs/SRS.md
 - [BPMN](diagrams/)
 
 ## 🗄 Структура проекта
+docs/ | diagrams/ | sql/ | frontend/ | backend/
